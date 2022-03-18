@@ -26,6 +26,7 @@
     "prettier": "2.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -44,5 +45,5 @@
   "bugs": {
     "url": "https://github.com/datfoosteve/firstReactPortfolio/issues"
   },
-  "homepage": "https://github.com/datfoosteve/firstReactPortfolio#readme"
+  "homepage": "https://datfoosteve.github.io/firstReactPortfolio/"
 }
