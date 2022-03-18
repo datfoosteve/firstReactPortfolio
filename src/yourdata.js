@@ -1,5 +1,5 @@
 // Skills Icons
-import htmlIcon from "../images/html.svg"
+import htmlIcon from "./images/html.svg"
 import cssIcon from "./images/css.svg"
 import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
@@ -20,11 +20,11 @@ export default {
   name: "Stephen Puthenpurackal",
   headerTagline: [
     //Line 1 For Header
-    "Creating,integrating, Assimilating, Conjuring, Developing",
+    "Creating, integrating, Developing",
     //Line 2 For Header
-    "products, ideas, movements, ",
+    "products ideas movements, ",
     //Line 3 For Header
-    "with wisdom, expertise, knowledge, and with precision",
+    "wisdom expertise knowledge precision",
   ],
   //   Header Paragraph
   headerParagraph:
