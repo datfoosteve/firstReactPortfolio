@@ -1,6 +1,6 @@
 {
   "name": "react-portfolio-template",
-  "private": true,
+  "private": false,
   "description": "Portfolio Template For Awesome Peoples",
   "version": "0.1.0",
   "author": "Chetan Verma <hello@chetanverma.com>",

@@ -1,5 +1,5 @@
 // Skills Icons
-import htmlIcon from "./images/html.svg"
+import htmlIcon from "../src/images/html.svg"
 import cssIcon from "./images/css.svg"
 import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
