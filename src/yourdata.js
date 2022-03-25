@@ -20,11 +20,11 @@ export default {
   name: "Stephen Puthenpurackal",
   headerTagline: [
     //Line 1 For Header
-    "Creating,",
+    "Creating, Building, developing ,",
     //Line 2 For Header
-    "Integrating,",
+    "Integrating, Assimilating, Contributing...",
     //Line 3 For Header
-    "Architecting",
+    "Architect mindset. Application? Everything.",
   ],
   //   Header Paragraph
   headerParagraph:
@@ -38,20 +38,20 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
+      title: "ProjectforHackers", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "First Group project in Full stack bootcamp, we created a website that used APIS which allow you to search for your favorite music artists, see their discography, and even book tickets to their next concert", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "https://picsum.photos/200/4000",
+      imageSrc: "../src/images/chrome_4DQYHivzq7.gif",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://datfoosteve.github.io/ProjectforHackers/",
     },
     {
       title: "Project Two", //Project Title - Add Your Project Title Here
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "https://picsum.photos/200/400",
+      imageSrc: "https://picsum.photos/400/200?random=5",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
@@ -60,8 +60,8 @@ export default {
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "https://picsum.photos/200/400",
-      //Project URL - Add Your Project Url Here
+      imageSrc: "https://picsum.photos/400/200?random=3",
+      //Project URL - Add Your Project Url HereS
       url: "http://chetanverma.com/",
     },
     {
@@ -69,7 +69,7 @@ export default {
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "https://picsum.photos/200/400",
+      imageSrc: "https://picsum.photos/400/200?random=4",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
@@ -78,7 +78,7 @@ export default {
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "https://picsum.photos/200/400",
+      imageSrc: "https://picsum.photos/400/200?random=2/",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
@@ -87,10 +87,17 @@ export default {
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: "hhttps://picsum.photos/400/200?random=1",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
+    },
+    {
+      title: "Some Of my Other Skills", //Project Title - Add Your Project Title Here
+      para: "Home Theatre Doombox - First Iteration", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc: "",
+      //Project URL - Add Your Project Url Here
+      url: "https://github.com/datfoosteve/HomeTheatreDOOMBOX",
     },
 
     /*
@@ -107,13 +114,12 @@ export default {
   // End Work Section -----------------------
 
   // About Secton --------------
-  aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+  aboutParaOne: "",
   aboutParaTwo:
     "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
   aboutParaThree:
     "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-  aboutImage: "https://picsum.photos/200/400",
+  aboutImage: "https://picsum.photos/400/200?random=6",
 
   //   End About Section ---------------------
 
