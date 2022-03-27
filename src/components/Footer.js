@@ -27,7 +27,7 @@ const Footer = () => {
             ))}
           </div>
           <span>
-            Made With <icon>🩸</icon> <icon>💦</icon> <icon>😭</icon> by{" "}
+            Made With <icon>🩸💦😭</icon> by{" "}
             <a href="https://www.github.com/datfoosteve">
               Stephen Puthenpurackal
             </a>
