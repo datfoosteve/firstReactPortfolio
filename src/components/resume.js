@@ -1,6 +1,6 @@
 import React from "react"
-import Img from "../images/resume1024_1.png"
-import Img2 from "../images/resume1024_2.png"
+import "../images/resume1024_1.png"
+import "../images/resume1024_2.png"
 export default function Resume() {
   return (
     <div className="Example">
@@ -11,7 +11,7 @@ export default function Resume() {
           width="100%"
           height="100%"
         >
-          <iframe src="Img" width="100%" height="100%">
+          <iframe src="" width="100%" height="100%">
             <iframe src="Img2" width="100%" height="100%">
               <iframe
                 src="https://github.com/datfoosteve/firstReactPortfolio/blob/3197ca7ed9575490dbdba08ef99b3c69fa2c8568/static/resume.pdf"

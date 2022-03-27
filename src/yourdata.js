@@ -42,7 +42,7 @@ export default {
       para:
         "First Group project in Full stack bootcamp, we created a website that used APIS which allow you to search for your favorite music artists, see their discography, and even book tickets to their next concert", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "../src/images/chrome_4DQYHivzq7.gif",
+      imageSrc: "../static/chrome_4DQYHivzq7.gif",
       //Project URL - Add Your Project Url Here
       url: "https://datfoosteve.github.io/ProjectforHackers/",
     },
@@ -95,7 +95,7 @@ export default {
       title: "Some Of my Other Skills", //Project Title - Add Your Project Title Here
       para: "Home Theatre Doombox - First Iteration", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "",
+      imageSrc: "../static/resume.pdf",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/datfoosteve/HomeTheatreDOOMBOX",
     },
