@@ -17,7 +17,13 @@ const Navbar = () => {
             <button onClick={() => scrollTo("#work")}>Work</button>
             <button onClick={() => scrollTo("#about")}>About</button>
             <button onClick={() => scrollTo("#contact")}>Contact</button>
-            <button onClick={() => scrollTo("#resume")}>Resume</button>
+            <button
+              onClick={() =>
+                "window.location.href='https://drive.google.com/file/d/1KYaslL0gVTp1BSI5td1BmcrSvBTMxqJd/view?usp=sharing'"
+              }
+            >
+              Resume
+            </button>
           </div>
         </div>
       </div>
